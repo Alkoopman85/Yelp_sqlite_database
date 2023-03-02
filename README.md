@@ -1,1 +1,1 @@
-# Yelp_sqlite_database
+# Yelp database in sqlite using SQLAlchemy and Python
