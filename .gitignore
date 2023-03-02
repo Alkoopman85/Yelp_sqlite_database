@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Synology
+.DS_Store
+
+# data
+data/
+
+# all yaml files
+*.yaml
