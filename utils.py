@@ -4,7 +4,6 @@ database utility functions
 import yaml
 import json
 from pathlib import Path
-from typing import List
 
 
 
